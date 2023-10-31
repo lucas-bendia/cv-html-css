@@ -1,0 +1,60 @@
+body{
+    background-image: url(images/fond.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+}
+h1{
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
+p{
+    color: white;
+    font-size: larger;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.superSection{
+    text-align: center;
+    margin-bottom: 30%;
+}
+.title{
+    color: rgb(255, 255, 255);
+
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-test{
+    width: 230px;
+}
+
+.année{
+    display: flex; 
+    justify-content: space-between;
+}
+
+.Compétences{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 240px;
+    height: 200px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+#imgGit{
+    margin-bottom: 10%;
+}
